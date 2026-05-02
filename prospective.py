@@ -213,7 +213,7 @@ def render():
                    "Recommended offer ($)":"${:.0f}",
                    "Days inactive":        "{:.0f}",
                })
-               .applymap(color_roi, subset=["Expected ROI score"]),
+               .map(color_roi, subset=["Expected ROI score"]),
             use_container_width=True,
             height=340,
         )
