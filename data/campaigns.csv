@@ -1,0 +1,5 @@
+campaign_id,campaign_name,promo_type,start_date,end_date,target_segment,total_budget,offer_min,offer_max
+c_nfl_draft,NFL Draft Deposit Bonus,deposit_bonus,2025-04-24,2025-05-12,dormant_high_value,42000,25,100
+c_nba_playoffs,NBA Playoffs Parlay Boost,parlay_boost,2025-05-01,2025-05-31,casual,28000,15,50
+c_summer_re,Summer Re-engagement Free Bet,free_bet,2025-07-01,2025-07-21,dormant_high_value,18000,20,75
+c_nfl_open,NFL Season Opener Odds Boost,odds_boost,2025-09-04,2025-09-14,active_mid,35000,10,40
